@@ -1,2 +1,2 @@
 # Hello-World
-I am a mother of 3, married to my soul mate whom I have known since high school. I have always loved to dabble in coding, but have recently decided to get serious about learning it well enough to work in the field. 
+This is my first coding project on Github, and is being guided by the tutorial. Moving forward, I will store tips and codes that are interesting to me in this repository. I am assuming that this will end up being my README :)
